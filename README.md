@@ -1,5 +1,5 @@
 <html>
   <bodi>
-    <h1>Hello Woord</h1>
+    <h1>բարև աշխարհ</h1>
   </bodi>
 </html>
